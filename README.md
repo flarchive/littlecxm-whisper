@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of littlecxm/whisper.** Not for installation: use [Packagist](https://packagist.org/packages/littlecxm/whisper) or the [upstream repository](https://github.com/littlecxm/whisper).
 
-**0** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.2`
+**6** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-21 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-07-22 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-07-22 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-07-27 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-12-07 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.4) |
+| `0.1.5` | 2022-01-28 | `^1.0.2` | [Browse](https://github.com/flarchive/littlecxm-whisper/tree/archive/v0.1.5) |
 
 Catalog entry: [packages/littlecxm-whisper.json](https://github.com/flarchive/archive-index/blob/main/packages/littlecxm-whisper.json)
 
